@@ -1,0 +1,262 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color:#090909;
+    width:100%;
+    height: 60px;
+}
+ul{
+    display: flex;
+}
+.c1{ 
+    float: left;
+    padding: 0px 25px 0px 0px;
+    color: #FFFFFF;
+}
+a{
+    text-decoration: none !important;
+    color: white;
+}
+#i1{
+    width: 70px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 6px;
+}
+.headings
+{
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+    top:8px;
+}
+.M_Header{
+    display: inline-block;
+    position: absolute;
+    left:650px;
+    top:8px;
+}
+.L_Header{
+    display: inline-block;
+    position: absolute;
+    right:50px;
+    top:27px;
+}
+.FL_Header{
+    display: inline-block;
+    position: relative;
+    bottom:31px;
+    right:10px;
+}
+.FL_Header2{
+    display: inline-block;
+    position: relative;
+    bottom:31px;
+    left:23px;
+}
+button {
+    background-color:#DE3831;
+    border: none;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
+  .c2{
+    display: inline-block;
+    padding: 0px 32px 0px 0px;
+    color: #CCCCCC;
+    font-size: small;
+  }
+.mission{
+    background-color: #F6F5F2;
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+    height: 500px;
+    position: relative;
+    bottom:171px;
+}
+.Gmission{
+    position: relative;
+    top:38px;
+}
+#imgtitile{
+    position: relative;
+    bottom: 220px;
+    color: #F6F5F2;
+    font-size: 53px;
+    font-family: 'Open Sans', sans-serif;
+}
+.p1{
+    padding: 0px 0px 15px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size:24px;
+}
+.p2{
+    padding: 0px 0px 30px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size:16px;
+}
+.cimg{
+    display: inline-block;
+    padding: 0px 0px 0px 105px;
+}
+.ccimg{
+    width: 90px;
+    padding: 0px 0px 0px 35px;
+}
+.wimg{
+    width: 90px;
+    padding: 0px 0px 0px 11px;
+}
+.img{
+    width: 90px;
+}
+#FOOD{
+    color: #B71234;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#CLIMATE{
+    color: #D55c19;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#FOREST{
+    color: #55601C;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#FRESHWATER{
+    color:#00675A;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#OCEAN{
+    color: #4FB0DD;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#WILDLIFE{
+    color: #53284F;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.C_Container{
+    display: flex;
+}
+.pimg{
+    border-radius: 8px;
+    margin: 0px 5px 5px 0px;
+}
+.palbum1{
+    display: inline-block;
+    position: relative;
+    bottom: 130px;
+    left: 75px;
+}
+.mtext{
+    position: relative;
+    bottom:60px;
+}
+.palbum2{
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    left: 75px;
+    padding-bottom: 60px;
+}
+.Bnavbar{
+    width: 100%;
+    height:290px;
+    background-color: black;
+}
+.buttonl{
+    background-color:#D55C19;
+    border: none;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position: relative;
+    left:1220px;
+    top:20px;
+}
+.lhr{
+    position: relative;
+    top: 33px;
+}
+.a{
+    display: block;
+    padding: 0px 0px 15px 60px;
+}
+.llinks{
+    position: relative;
+    top:60px;
+}
+footer{
+    width: 100%;
+    height: 170px;
+}
+.p11{
+    color: #090909;
+    font-size: 16px;
+    font-weight: bold;
+}
+.p12{
+    color: #090909;
+    font-size: 16px;
+}
+.pic{
+    width: 40px;
+    height: 40px;
+    padding: 0px 15px 0px 0px;
+}
+.c3{
+    padding: 20px 0px 0px 58px;
+    display: inline-block;
+}
+.c2{
+    padding: 10px 0px 0px px;
+}
+.row2{
+    width: 50%;
+    height: 130px;
+    position: absolute;
+    left: 340px;
+}
+.c4{
+    display: inline-block;
+    padding: 10px 0px 20px 70px;
+}
+.b1{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.btn2{
+    background-color:#D55C19;
+}
+.p_1{
+    font-family: 'Open Sans', sans-serif; font-size:16px;
+}
+li{
+    list-style: none;
+}
+.c_img_main{
+    position: relative;
+    right: 55px;
+}
